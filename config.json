@@ -1,0 +1,42 @@
+{
+  "server_name": "Ha2cked By Grop FDony 785",
+  "server_icon_url": "https://cdn.discordapp.com/attachments/1351561890882650172/1463618898489508023/42f9f6b3-4642-43ad-9feb-9471ccec5010.webp",
+  
+  "channel_names": [
+    "Ha2cked By FrontEvill",
+    "Ha2cked By FDony #785",
+    "FDony #785",
+    "كرمال خلودي",
+    "Khaled Was Here",
+    "Ha2cked By Khaled",
+    "Hacked By Mashyl",
+    "كرمال مشعل",
+    "فرونت هونن",
+    "خلودي هونن",
+    "مشعل هونن",
+    "Ez Ha2cked",
+    "TheKingHub",
+    "Ha2cked By Kaptiridm",
+    "Kaptiridm was Here"
+  ],
+  
+  "role_names": [
+    "Ha2cked By FrontEvill",
+    "FDony #785",
+    "Khaled Was Here",
+    "Hacked By Mashyl",
+    "Ez Ha2cked",
+    "TheKingHub",
+    "Kaptiridm was Here"
+  ],
+  
+  "spam_message": "@everyone Server Has Been Raided! Ha2cked By FrontEvill | Discord: discord.gg/X5hK66Wwj4",
+  
+  "spam_channel_count": 50,
+  "spam_role_count": 20,
+  "messages_per_channel": 5,
+  
+  "role_color": 16711680,
+  
+  "ban_delete_message_days": 7
+}
