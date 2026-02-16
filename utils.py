@@ -3,10 +3,12 @@ import requests
 import threading
 from colorama import Fore, Style
 
-HEADERS = {}
-BASE_URL = ""
-GUILD_ID = ""
+HEADERS = {"Authorization": f"Bot {TOKEN}", "Content-Type": "application/json"}
+BASE_URL = f"https://discord.com/api/v10/guilds/{GUILD_ID}"
+GUILD_ID = ()
 CONFIG = {}
+
+
 lock = threading.Lock()
 
 delete_counter = 0
